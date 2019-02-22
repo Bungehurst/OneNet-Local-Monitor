@@ -1,0 +1,27 @@
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\bin\Debug\Monitor.exe.config
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\bin\Debug\Monitor.exe
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\bin\Debug\Monitor.pdb
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.exe
+D:\03 代码相关\03 OoT上位机\测试客户端\远程监控\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.网络监视器.resources
+C:\Users\lun55\Downloads\远程监控OneNet\远程监控\Monitor\Monitor\obj\Debug\Monitor.HTML.resources
+C:\Users\lun55\Desktop\Monitor\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\lun55\Desktop\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Users\lun55\Desktop\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Users\lun55\Desktop\J19B_APP\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\lun55\Desktop\J19B_APP\Monitor\obj\Debug\Monitor.exe
+C:\Users\lun55\Desktop\J19B_APP\Monitor\obj\Debug\Monitor.pdb
